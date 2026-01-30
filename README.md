@@ -42,13 +42,14 @@ This project is fully based on **Object-Oriented Programming**, including:
 
 ## 📂 Project Structure
 
+```text
 Student-Management-System/
 │
-├── main.py # Entry point of the application
-├── student.py # Student class (student data & methods)
-├── operations.py # Student management logic
-├── studnentoops.json # File used to store student records
-├── README.md # Project documentation
+├── main.py               # Entry point of the application
+├── student.py            # Student class (student data & methods)
+├── operations.py         # Student management logic
+├── studnentoops.json     # File used to store student records
+└── README.md             # Project documentation
 
 
 ---
@@ -58,5 +59,6 @@ Student-Management-System/
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+
 
 
